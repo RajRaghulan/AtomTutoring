@@ -1,2 +1,2 @@
 # AtomTutoring
-The Website for AtomTutoring
+The website for AtomTutoring
